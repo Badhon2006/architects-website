@@ -17,6 +17,9 @@
   
 
 }
+.text-grey {
+    color: #727272;
+}
 
 
 /* Header style */
@@ -62,11 +65,7 @@ nav li a{
     font-size: 64px;
     font-weight: 700;
 }
-.banner-description{
-    color: #727272;
-    font-size: 16px;
-    font-weight: 400;
-}
+
 .image{   
     margin-top:30px ;
     width: 100%;
@@ -106,11 +105,7 @@ main{
 .sp-3{
     color:#FF900E ;
 }
-.team-description{
-    color: #727272;
-    font-size: 16px ;
-    font-weight:400px;
-}
+
 /* Responsive media queries */
 
 /* Mobile */
